@@ -38,7 +38,8 @@
 ### Wordに貼り付けてマクロを実行する。
 * 「=======ルビふり=======」の下のテキストをコピーする。
 * Wordファイルを新規作成して貼り付ける。
-* 開発タブからVisual Basicを開き、
+* 開発タブからVisual Basicを開き、「makeRubyFromGoogleDocsRubyText.bas」のコードをコピペする。
+* マクロ「ルビふり」を実行する。
 
   
 
